@@ -1,3 +1,5 @@
+//Products code
+
 const products = [
     {
         id:1,
